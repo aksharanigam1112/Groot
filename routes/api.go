@@ -1,8 +1,8 @@
 package routes
 
 import (
+	"github.com/aksharanigam1112/Groot/controllers/employee"
 	"github.com/gin-gonic/gin"
-	"Groot/controllers/employee"
 )
 
 const (
