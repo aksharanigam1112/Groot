@@ -1,2 +1,2 @@
 # Groot
-A Go Framework
+A Boilerplate code in Go
